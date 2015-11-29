@@ -1,0 +1,28 @@
+var a02332 =
+[
+    [ "DEFAULT_LOOKASIDE_IRP_LIMIT", "d1/d03/a02332.html#a245dfe29e3b485451b285b24b585e81a", null ],
+    [ "DEVICENAME_BUFFER_LENGTH", "d1/d03/a02332.html#a2d18de46f192a0cc185dd03569361933", null ],
+    [ "InitializeDriverObject", "d1/d03/a02332.html#ab8fcedcf782cd2341f35b2b01806dc08", null ],
+    [ "VALUE_BUFFER_LENGTH", "d1/d03/a02332.html#ac03df21dc0bf30b8b3084da837558458", null ],
+    [ "IoInitSystem", "d1/d03/a02332.html#ac30e6c6b984b4bb4b9d236e78f2f62bb", null ],
+    [ "IopCreateArcNames", "d1/d03/a02332.html#a14bc4e128d2fad8db0285be18edac9e1", null ],
+    [ "IopCreateArcNamesCd", "d1/d03/a02332.html#aaefd5f97917a6a3d5e8c6f03e29157de", null ],
+    [ "IopCreateArcNamesDisk", "d1/d03/a02332.html#abe5e3eaa99512b109cbe77fafec4c066", null ],
+    [ "IopCreateObjectTypes", "d1/d03/a02332.html#a04fe28d1bfe5975b0188023abd7747b4", null ],
+    [ "IopCreateRootDirectories", "d1/d03/a02332.html#a0f59f08d0b49ce425a3ec1c7982095fa", null ],
+    [ "IopFetchConfigurationInformation", "d1/d03/a02332.html#a08595a44979473b904fd59d4f37a7eec", null ],
+    [ "IopInitializeAttributesAndCreateObject", "d1/d03/a02332.html#a60d5cd9f286ec920035ba82fbded9a44", null ],
+    [ "IopInitializeBuiltinDriver", "d1/d03/a02332.html#a0782cc4bf9c8e575410583c26018ed2d", null ],
+    [ "IopInitializeData", "d1/d03/a02332.html#ab974af851515784781860f407cd8b7f0", null ],
+    [ "IopInitializeReserveIrp", "d1/d03/a02332.html#a5107cd553e2d2fa492805de3f9aee000", null ],
+    [ "IopLogErrorEvent", "d1/d03/a02332.html#a688b78e73139a687e467595fa076cc14", null ],
+    [ "IopMarkBootPartition", "d1/d03/a02332.html#ac8aad081468603ef585a1afefe4cb7e2", null ],
+    [ "IopReassignSystemRoot", "d1/d03/a02332.html#a0bfe7b8e41380de3688ed15bdbe4ff0b", null ],
+    [ "IopSetIoRoutines", "d1/d03/a02332.html#a0ab9aa4bba2f91d31457c9f0eb9c626a", null ],
+    [ "IopSetIoRoutines", "d1/d03/a02332.html#aaf8a312e5109d0805cc70b330daf5136", null ],
+    [ "IopStoreSystemPartitionInformation", "d1/d03/a02332.html#a025f89ca6c679167b689079ffe42b214", null ],
+    [ "IopCompletionMapping", "d1/d03/a02332.html#a863d40eeeb73b30a7bf356429f2181bb", null ],
+    [ "IopErrorLogObject", "d1/d03/a02332.html#ae592705a7980a021b2f4e6f1c37090fd", null ],
+    [ "IopFileMapping", "d1/d03/a02332.html#a0295028d961a23cafb87acec75e6cb23", null ],
+    [ "IopInitFailCode", "d1/d03/a02332.html#a5cfd25f820598742835b9c1ec3b9111e", null ]
+];

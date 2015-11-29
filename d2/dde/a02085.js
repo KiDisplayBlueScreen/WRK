@@ -1,0 +1,27 @@
+var a02085 =
+[
+    [ "HvpAdjustCellSize", "d2/dde/a02085.html#ad67c5260ffd922d77edba5d9cbf72849", null ],
+    [ "SIXTEEN_K", "d2/dde/a02085.html#acc61a55bcff694780268d6b0c3f592c0", null ],
+    [ "HvAllocateCell", "d2/dde/a02085.html#a470b97951589c0168673aa73a8dfeb1d", null ],
+    [ "HvAutoCompressCheck", "d2/dde/a02085.html#aa36f3dc5f105bd7fc0c63fdb9d76e7d1", null ],
+    [ "HvDuplicateCell", "d2/dde/a02085.html#a8bd5d32ed939801744e43e3df9580c63", null ],
+    [ "HvFreeCell", "d2/dde/a02085.html#a425096d0963d99e5ff8a23770f231f07", null ],
+    [ "HvGetCellSize", "d2/dde/a02085.html#aad4c8a8ca904a949b73b74e78a0ad545", null ],
+    [ "HvIsCellAllocated", "d2/dde/a02085.html#a6e432eaf25500e3a4d7f32d9536b61e9", null ],
+    [ "HvpDelistBinFreeCells", "d2/dde/a02085.html#a5daf7fcc5d53e7da2f7589324955d241", null ],
+    [ "HvpDelistFreeCell", "d2/dde/a02085.html#a1374e128f529fbf9585e3db7fa12c598", null ],
+    [ "HvpDoAllocateCell", "d2/dde/a02085.html#aae7ca2a8de172579cb6aae957653298b", null ],
+    [ "HvpEnlistFreeCell", "d2/dde/a02085.html#ab3fb1d99b4d3dca1305e64b341ba219c", null ],
+    [ "HvpGetCellFlat", "d2/dde/a02085.html#a7af93c9810031e32829383a40e46df92", null ],
+    [ "HvpGetCellMap", "d2/dde/a02085.html#a528f07e63de62a7c881fac153d42a0d6", null ],
+    [ "HvpGetCellMapped", "d2/dde/a02085.html#a84a430ffa88a0044ea07bf927c8d5917", null ],
+    [ "HvpGetCellPaged", "d2/dde/a02085.html#a4f16920cef5444297fbce563284da5f7", null ],
+    [ "HvpGetHCell", "d2/dde/a02085.html#aeab74f2e2b1ee3c6b66a847b9026c566", null ],
+    [ "HvpIsFreeNeighbor", "d2/dde/a02085.html#af64f3a0eea430047ec93eb61ecff80d0", null ],
+    [ "HvpReleaseCellMapped", "d2/dde/a02085.html#af7459b5b836777ae49e91cd68daba643", null ],
+    [ "HvReallocateCell", "d2/dde/a02085.html#abecac9f3def24ffc3060723b97b5644e", null ],
+    [ "HvReleaseFreeCellRefArray", "d2/dde/a02085.html#a4fd3b8722d86369cf6bb0e878cb01319", null ],
+    [ "HvShiftCell", "d2/dde/a02085.html#ab7abbbefe88625467708e5d3b2cb8dd7", null ],
+    [ "HvTrackCellRef", "d2/dde/a02085.html#ad6e6308997a01ee243bf3b3c0cf5f0b5", null ],
+    [ "HvShutdownComplete", "d2/dde/a02085.html#a93a81f2b893947433f62a11a78801395", null ]
+];

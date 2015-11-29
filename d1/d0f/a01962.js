@@ -1,0 +1,25 @@
+var a01962 =
+[
+    [ "CheckSum", "d1/d0f/a01962.html#a0b07f5e7bae789205d9a84eb0648c209", null ],
+    [ "FeatureFlags", "d1/d0f/a01962.html#a7f2b3f8d34d49e4dcac777a7089008ed", null ],
+    [ "FirstTablePage", "d1/d0f/a01962.html#ab58c0807f96e35fd3598bd7ea33aabf7", null ],
+    [ "FreeMapCheck", "d1/d0f/a01962.html#a8b04d63773f57361df6b346b1a9d30a2", null ],
+    [ "HiberFlags", "d1/d0f/a01962.html#afd3c62056dd45a24f2f5d978bf7d85c9", null ],
+    [ "HiberPte", "d1/d0f/a01962.html#a59be66fbed9dac4061ae6522011b579a", null ],
+    [ "HiberVa", "d1/d0f/a01962.html#a37313270b69f5334cdfcf877b941bc93", null ],
+    [ "ImageType", "d1/d0f/a01962.html#a9361b0f0cf0cf84156dc8d88053de490", null ],
+    [ "InterruptTime", "d1/d0f/a01962.html#a9852d293b5409d4c5bc2e7d33212a925", null ],
+    [ "LastFilePage", "d1/d0f/a01962.html#a65029d2525b722ee07552b481abf1bda", null ],
+    [ "LengthSelf", "d1/d0f/a01962.html#ab6d0a0c4eb06e9542e35df53956d7438", null ],
+    [ "NoFreePages", "d1/d0f/a01962.html#a4ff4ba25c2d0d3dc9446f186246a41ae", null ],
+    [ "NoHiberPtes", "d1/d0f/a01962.html#a92c1bd5dc395036d7c128708550ab18d", null ],
+    [ "PageSelf", "d1/d0f/a01962.html#a83cd194ab7f7d6ce5e183bb23d815ea7", null ],
+    [ "PageSize", "d1/d0f/a01962.html#a1141225a0faa6aa8f7a858e468825368", null ],
+    [ "PerfInfo", "d1/d0f/a01962.html#a68818955d5db7c184a41f27e8e7c5ac7", null ],
+    [ "Signature", "d1/d0f/a01962.html#a36e38c668604e06d85f59791f48ab8ff", null ],
+    [ "spare", "d1/d0f/a01962.html#ab61181dca3c951b99f8866be3b7c163d", null ],
+    [ "SystemTime", "d1/d0f/a01962.html#a4d57fcdd55861ef84f6bccd034c53174", null ],
+    [ "TotalPages", "d1/d0f/a01962.html#a6525100e4f9715ce8f61f3951c04b2eb", null ],
+    [ "Version", "d1/d0f/a01962.html#a95217ee754550027dbeecae60ed906e3", null ],
+    [ "WakeCheck", "d1/d0f/a01962.html#ab8d6082fb6fec16e5dd6c30bbf5e0ffc", null ]
+];
