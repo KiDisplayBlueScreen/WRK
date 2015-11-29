@@ -1,0 +1,27 @@
+var a02095 =
+[
+    [ "DbgkClearProcessDebugObject", "d0/d0c/a02095.html#a58161531b0b05e9482cdf52b4bd85a66", null ],
+    [ "DbgkCopyProcessDebugPort", "d0/d0c/a02095.html#ace9279a3fadc05049a1707292411874b", null ],
+    [ "DbgkInitialize", "d0/d0c/a02095.html#a8435b54338fbe6f0ed1798bd76f16fd5", null ],
+    [ "DbgkOpenProcessDebugPort", "d0/d0c/a02095.html#a5d61a52d4b105e5e661b58b6702d3ea2", null ],
+    [ "DbgkpCloseObject", "d0/d0c/a02095.html#aa07f1fb3083690224895319440399168", null ],
+    [ "DbgkpConvertKernelToUserStateChange", "d0/d0c/a02095.html#a2a683fddd64cb9e4f46ac3bd6e993a01", null ],
+    [ "DbgkpDeleteObject", "d0/d0c/a02095.html#a7bb09906e3e57cce7da1c2718d7bf50b", null ],
+    [ "DbgkpFreeDebugEvent", "d0/d0c/a02095.html#a7b2c767bc300b38724a147d2cb19b2ff", null ],
+    [ "DbgkpMarkProcessPeb", "d0/d0c/a02095.html#a66eaa05f075c1e0e1ca78049dd9b06c3", null ],
+    [ "DbgkpOpenHandles", "d0/d0c/a02095.html#acfed746e527c202ef84e248a7e90bc9f", null ],
+    [ "DbgkpPostFakeModuleMessages", "d0/d0c/a02095.html#ac39b50a22d6dcd2e969bf604784eb14a", null ],
+    [ "DbgkpPostFakeProcessCreateMessages", "d0/d0c/a02095.html#a52d0c6bc8cbb66aebc79ff83bd5cd900", null ],
+    [ "DbgkpPostFakeThreadMessages", "d0/d0c/a02095.html#a5fd1112c8848c730664d6ca9bbab2cdb", null ],
+    [ "DbgkpQueueMessage", "d0/d0c/a02095.html#a0e09eb4d15b39bf825c140b57cb3ccbe", null ],
+    [ "DbgkpSetProcessDebugObject", "d0/d0c/a02095.html#a805c5adb597e16dc997dd70fd9a39a50", null ],
+    [ "DbgkpWakeTarget", "d0/d0c/a02095.html#a1614ab3c460d95bdaaea847c5b0cfffa", null ],
+    [ "NtCreateDebugObject", "d0/d0c/a02095.html#a8a34deb5c25cab7565e1e8d174d9b41c", null ],
+    [ "NtDebugActiveProcess", "d0/d0c/a02095.html#ac9ad0bb4dfc59de4c9b24191ff1c3845", null ],
+    [ "NtDebugContinue", "d0/d0c/a02095.html#a463fc88cb0dba8e01aa3eef039be04ac", null ],
+    [ "NtRemoveProcessDebug", "d0/d0c/a02095.html#a65f78049baecf1c6f50611e6c373b9dc", null ],
+    [ "NtSetInformationDebugObject", "d0/d0c/a02095.html#a12027e0495760899e46619f50a99a7b4", null ],
+    [ "NtWaitForDebugEvent", "d0/d0c/a02095.html#a232001259690292f28fdcc5e1a58c6a4", null ],
+    [ "DbgkDebugObjectType", "d0/d0c/a02095.html#ab074f9a26e6f9186d4e11fb1b0602e71", null ],
+    [ "DbgkpProcessDebugPortMutex", "d0/d0c/a02095.html#aa9324ecef4e776a22a19c0ca569d124d", null ]
+];
