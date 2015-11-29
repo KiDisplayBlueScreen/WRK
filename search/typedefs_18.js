@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['x86_5fcontext',['X86_CONTEXT',['../dd/d51/a02223.html#af8605be3430fd3581ca8ab376387b1d8',1,'ntdbg.h']]],
+  ['x86_5fdbgkd_5fcontrol_5freport',['X86_DBGKD_CONTROL_REPORT',['../dd/d51/a02223.html#a4eed809a51d54f3befc5e82eda38aeb8',1,'ntdbg.h']]],
+  ['x86_5fdbgkd_5fcontrol_5fset',['X86_DBGKD_CONTROL_SET',['../dd/d51/a02223.html#acade57a1228ea93c6f1783d18077f15c',1,'ntdbg.h']]],
+  ['x86_5fdescriptor',['X86_DESCRIPTOR',['../dd/d51/a02223.html#aedc61e4cb76e1aa5a60ff5fb6d93c9bc',1,'ntdbg.h']]],
+  ['x86_5fdescriptor_5ftable_5fentry',['X86_DESCRIPTOR_TABLE_ENTRY',['../dd/d51/a02223.html#a7ee8650a0fb07b46c430e5992b9c3ad9',1,'ntdbg.h']]],
+  ['x86_5ffiber',['X86_FIBER',['../dd/d51/a02223.html#a09342eca8e0991f15a572b6aa4b5afeb',1,'ntdbg.h']]],
+  ['x86_5ffloating_5fsave_5farea',['X86_FLOATING_SAVE_AREA',['../dd/d51/a02223.html#a7a9a2c66768a08a4a41b003bab90edb2',1,'ntdbg.h']]],
+  ['x86_5ffxsave_5fformat',['X86_FXSAVE_FORMAT',['../dd/d51/a02223.html#a10a6cf4119d57c51ceb62c87aa222f3e',1,'ntdbg.h']]],
+  ['x86_5fkprocessor_5fstate',['X86_KPROCESSOR_STATE',['../dd/d51/a02223.html#ad739433a345b614cda000fa9e5c88c0c',1,'ntdbg.h']]],
+  ['x86_5fkspecial_5fregisters',['X86_KSPECIAL_REGISTERS',['../dd/d51/a02223.html#aebcfcac70e1c91b74e2b01d278cee8f6',1,'ntdbg.h']]],
+  ['x86_5fkswitchframe',['X86_KSWITCHFRAME',['../dd/d51/a02223.html#a2153194af15ac24706f897c09814318a',1,'ntdbg.h']]],
+  ['x86_5fktrap_5fframe',['X86_KTRAP_FRAME',['../dd/d51/a02223.html#a2015abecaff79e02828f911658ec31f4',1,'ntdbg.h']]],
+  ['x86_5fktss',['X86_KTSS',['../dd/d51/a02223.html#a07582fc47664111905383ea6447daf17',1,'ntdbg.h']]],
+  ['x86_5fldt_5fentry',['X86_LDT_ENTRY',['../dd/d51/a02223.html#a3f527220597b2ab77bfa3eabb507ab87',1,'ntdbg.h']]],
+  ['x86_5fnt5_5fcontext',['X86_NT5_CONTEXT',['../dd/d51/a02223.html#a733bd52d5eecf3727ba276383b34ca91',1,'ntdbg.h']]],
+  ['x86_5fnt5_5fkprocessor_5fstate',['X86_NT5_KPROCESSOR_STATE',['../dd/d51/a02223.html#a08f4a2c8139fcf96552708fb39f312fd',1,'ntdbg.h']]],
+  ['x86pae_5fhardware_5fpde',['X86PAE_HARDWARE_PDE',['../dd/d51/a02223.html#aaad1e802e2e12c00b4348fcb61cf6b88',1,'ntdbg.h']]],
+  ['x86pae_5fhardware_5fpdpte',['X86PAE_HARDWARE_PDPTE',['../dd/d51/a02223.html#a7f65cb302befa23adfd3ddcd8565f4c6',1,'ntdbg.h']]],
+  ['x86pae_5fhardware_5fpte',['X86PAE_HARDWARE_PTE',['../dd/d51/a02223.html#a51c0b8e4d390a13e088e1b403070f6e4',1,'ntdbg.h']]],
+  ['xhal_5fwait_5fcontext_5fblock',['XHAL_WAIT_CONTEXT_BLOCK',['../df/dbf/a02161.html#ad180e3927bd3db324cffa2127330e9aa',1,'haldisp.h']]]
+];

@@ -1,0 +1,28 @@
+var a02553 =
+[
+    [ "INVALID_HASH_INDEX", "dd/d68/a02553.html#a4e8fe2a8812cd4df516a8ba369fcead8", null ],
+    [ "NtCreateDirectoryObject", "dd/d68/a02553.html#ab7754c795fbae92051ee85baaa70611a", null ],
+    [ "NtMakePermanentObject", "dd/d68/a02553.html#a8b03ec9d98394ebc0bdfb4ac7f5898dd", null ],
+    [ "NtOpenDirectoryObject", "dd/d68/a02553.html#ac85de9973c4ec6eec34d2821c4179ac3", null ],
+    [ "NtQueryDirectoryObject", "dd/d68/a02553.html#a9f5abdc998aa395478f4a52d95279575", null ],
+    [ "ObfDereferenceDeviceMap", "dd/d68/a02553.html#aca642fe415e34530433792c53aec16e9", null ],
+    [ "ObpDeleteDirectoryEntry", "dd/d68/a02553.html#a3b62595ad1fd82ca10112e6a09d6e105", null ],
+    [ "ObpGetShadowDirectory", "dd/d68/a02553.html#aca183da62b9514c3c571e97f4d3e061b", null ],
+    [ "ObpInsertDirectoryEntry", "dd/d68/a02553.html#ada5e7ca48259a3793275949e6711e918", null ],
+    [ "ObpIsUnsecureName", "dd/d68/a02553.html#ac9d08e396887b2ad88764950a515cdb1", null ],
+    [ "ObpLinkDirectoryEntry", "dd/d68/a02553.html#a0afcb23009db231248fe0502fbb9c129", null ],
+    [ "ObpLookupDirectoryEntry", "dd/d68/a02553.html#a11c0b2481c03596005d41faf3d2bbf66", null ],
+    [ "ObpLookupObjectName", "dd/d68/a02553.html#a769f3f7d47eb5eae0aa0a62a2a81d645", null ],
+    [ "ObpReferenceDeviceMap", "dd/d68/a02553.html#a32e646dfa87d4c769babfae1295efca9", null ],
+    [ "ObpReleaseExclusiveNameLock", "dd/d68/a02553.html#ae2d22604b8c9e4cf052615bf762fc674", null ],
+    [ "ObpReleaseLookupContextObject", "dd/d68/a02553.html#a127084d25e4c3756aec16a34b4050477", null ],
+    [ "ObpSetCurrentProcessDeviceMap", "dd/d68/a02553.html#ae1f44de6f19c15153925e401320d4e44", null ],
+    [ "ObpTryReferenceNameInfoExclusive", "dd/d68/a02553.html#ac3cf5567bcb3c18f8206640a81278b53", null ],
+    [ "ObpUnlinkDirectoryEntry", "dd/d68/a02553.html#a2857583dad621bcb0e3063759d7c661c", null ],
+    [ "ObSwapObjectNames", "dd/d68/a02553.html#a33c9501a80ca04c0da83553e023d9c37", null ],
+    [ "SeGetLogonIdDeviceMap", "dd/d68/a02553.html#aa6c1ec1553b7c9af60d07b557e4e77dc", null ],
+    [ "ObpCaseInsensitive", "dd/d68/a02553.html#ae71348b265457a98957ac85750ba1bc6", null ],
+    [ "ObpLUIDDeviceMapsEnabled", "dd/d68/a02553.html#abe928a29f4ba8f95bd0dbdf3b1e90bf3", null ],
+    [ "ObpUnsecureGlobalNamesBuffer", "dd/d68/a02553.html#a6f060ac0db46db31e13512ed83df2a88", null ],
+    [ "ObpUnsecureGlobalNamesLength", "dd/d68/a02553.html#a864360749704d9ad99f13056feba4b0f", null ]
+];

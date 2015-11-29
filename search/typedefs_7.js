@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['gdi_5fhandle_5fbuffer',['GDI_HANDLE_BUFFER',['../db/d7a/a02253.html#a01c7809a42ce4d375776b3ce17c24e1a',1,'ntpsapi.h']]],
+  ['gdi_5fhandle_5fbuffer32',['GDI_HANDLE_BUFFER32',['../db/d7a/a02253.html#a1591f873713f4600ff8134ae218c2ca1',1,'GDI_HANDLE_BUFFER32():&#160;ntpsapi.h'],['../df/d73/a02312.html#a1591f873713f4600ff8134ae218c2ca1',1,'GDI_HANDLE_BUFFER32():&#160;wow64t.h']]],
+  ['gdi_5fhandle_5fbuffer64',['GDI_HANDLE_BUFFER64',['../db/d7a/a02253.html#a6b857d65d573731b9b995f62c3d3df4d',1,'GDI_HANDLE_BUFFER64():&#160;ntpsapi.h'],['../df/d73/a02312.html#a6b857d65d573731b9b995f62c3d3df4d',1,'GDI_HANDLE_BUFFER64():&#160;wow64t.h']]],
+  ['gdi_5fteb_5fbatch',['GDI_TEB_BATCH',['../db/d7a/a02253.html#a75f4f607d4a0275a4f01d911310aa6a2',1,'ntpsapi.h']]],
+  ['gdi_5fteb_5fbatch32',['GDI_TEB_BATCH32',['../df/d73/a02312.html#a41744c6b40ccc0f0ac161e61a9904e5e',1,'wow64t.h']]],
+  ['gdi_5fteb_5fbatch64',['GDI_TEB_BATCH64',['../df/d73/a02312.html#a2147da786c5012bdace7410782e7aad0',1,'wow64t.h']]],
+  ['general_5flookaside',['GENERAL_LOOKASIDE',['../d5/ddd/a02184.html#a7a47357db9e4031f9e3bd998db9d53da',1,'ex.h']]],
+  ['generate_5fname_5fcontext',['GENERATE_NAME_CONTEXT',['../de/dc3/a02256.html#acf185862b865e72de5e8d85b7871af00',1,'ntrtl.h']]],
+  ['generic_5fmapping',['GENERIC_MAPPING',['../d3/d3a/a02259.html#a0703c252d93816febad6d40a011f767f',1,'ntseapi.h']]],
+  ['get_5fcurrent_5fprocess_5faddress',['GET_CURRENT_PROCESS_ADDRESS',['../db/d77/a02304.html#ad109d7db77f8b663561c816de6d5c1bd',1,'wdbgexts.h']]],
+  ['get_5fcurrent_5fthread_5faddress',['GET_CURRENT_THREAD_ADDRESS',['../db/d77/a02304.html#aaecb135c6639b8362cbb7632399cfa51',1,'wdbgexts.h']]],
+  ['get_5fexpression_5fex',['GET_EXPRESSION_EX',['../db/d77/a02304.html#aadca2e740f038f79a3b0c78d6ad8b489',1,'wdbgexts.h']]],
+  ['get_5ffp_5fcapability_5fout',['GET_FP_CAPABILITY_OUT',['../d7/d67/a02308.html#aea38a41dcee931769766d1bc6ef3f359',1,'wmidata.h']]],
+  ['get_5finput_5fline',['GET_INPUT_LINE',['../db/d77/a02304.html#a5a10625988dd679ad37e3fc8415ddfac',1,'wdbgexts.h']]],
+  ['get_5fmedia_5ftypes',['GET_MEDIA_TYPES',['../da/d3b/a02229.html#a32a0d10aa10cd4d08c4764da044c6887',1,'ntddstor.h']]],
+  ['get_5fpeb_5faddress',['GET_PEB_ADDRESS',['../db/d77/a02304.html#a3fe68d9f323c4fa9a86685204e26a86b',1,'wdbgexts.h']]],
+  ['get_5fset_5fsympath',['GET_SET_SYMPATH',['../db/d77/a02304.html#a302ed84577c99c95c18359c6dbf21980',1,'wdbgexts.h']]],
+  ['get_5fteb_5faddress',['GET_TEB_ADDRESS',['../db/d77/a02304.html#af553e7acbb0604d2e22efd855416b452',1,'wdbgexts.h']]],
+  ['getsetcontext',['GETSETCONTEXT',['../d4/d61/a02588.html#a790f7799a90c672c9317464a05ed5643',1,'psp.h']]],
+  ['guid',['GUID',['../dc/dc3/a02190.html#acabfea33dd59df8e10a8b0bb0b19860f',1,'guiddef.h']]],
+  ['guid_5fio_5fdisk_5fclone_5farrival_5finformation',['GUID_IO_DISK_CLONE_ARRIVAL_INFORMATION',['../dd/d14/a02201.html#a6612cc2c297dd36d08e0971627fe8f7d',1,'ioevent.h']]],
+  ['guidentry',['GUIDENTRY',['../d5/d4d/a02763.html#ad9433f2174ecb8230486da253d3d7573',1,'wmiumds.h']]]
+];
