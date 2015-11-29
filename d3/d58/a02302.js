@@ -1,0 +1,68 @@
+var a02302 =
+[
+    [ "PVF_FAILURE_CLASS", "d3/d58/a02302.html#a291e5fdefc633f724a8e4b3f50a0ca50", null ],
+    [ "PVI_DEADLOCK_RESOURCE_TYPE", "d3/d58/a02302.html#a97da379aeeb94fcd08ca4b12f3173e55", null ],
+    [ "VI_DEADLOCK_RESOURCE_TYPE", "d3/d58/a02302.html#a22b227c6c12787e641221ca9dbc6c4e9", null ],
+    [ "_VI_DEADLOCK_RESOURCE_TYPE", "d3/d58/a02302.html#adc670c6d3e6194a5386277e77d4cd070", [
+      [ "VfDeadlockUnknown", "d3/d58/a02302.html#adc670c6d3e6194a5386277e77d4cd070aae82d70a95bcc3ccd3100537ffa2d6a8", null ],
+      [ "VfDeadlockMutex", "d3/d58/a02302.html#adc670c6d3e6194a5386277e77d4cd070a1e8e7f586193e606bffa5892a49647a0", null ],
+      [ "VfDeadlockMutexAbandoned", "d3/d58/a02302.html#adc670c6d3e6194a5386277e77d4cd070a92c40e33865588c4e6d4e6cacd59d321", null ],
+      [ "VfDeadlockFastMutex", "d3/d58/a02302.html#adc670c6d3e6194a5386277e77d4cd070ab2ff60b6f0ab9dba1489c20e8826a4c3", null ],
+      [ "VfDeadlockFastMutexUnsafe", "d3/d58/a02302.html#adc670c6d3e6194a5386277e77d4cd070a19854ba93253363a0232d1fa41eb0dc7", null ],
+      [ "VfDeadlockSpinLock", "d3/d58/a02302.html#adc670c6d3e6194a5386277e77d4cd070a136fc4ff6bd2570bbd854e92ee0c50ae", null ],
+      [ "VfDeadlockQueuedSpinLock", "d3/d58/a02302.html#adc670c6d3e6194a5386277e77d4cd070a1966da62454e9d10e6e43fe85dd1b68c", null ],
+      [ "VfDeadlockTypeMaximum", "d3/d58/a02302.html#adc670c6d3e6194a5386277e77d4cd070aeb35f5eab98c9d8460f4a47854fbd133", null ]
+    ] ],
+    [ "VERIFIER_MODE", "d3/d58/a02302.html#a20c55c2759987d039bb0c1a7e1d5c619", [
+      [ "VERIFIER_MODE_DISABLED", "d3/d58/a02302.html#a20c55c2759987d039bb0c1a7e1d5c619a6ae06a1408cfa26c6f7770003f748dca", null ],
+      [ "VERIFIER_MODE_TRIAGE", "d3/d58/a02302.html#a20c55c2759987d039bb0c1a7e1d5c619a25def5ec6f8aa83968bee6d56553b4e9", null ],
+      [ "VERIFIER_MODE_FIELD", "d3/d58/a02302.html#a20c55c2759987d039bb0c1a7e1d5c619aad304ab6aa6bdb011dd1ac87ff0a9ffc", null ],
+      [ "VERIFIER_MODE_LOGO", "d3/d58/a02302.html#a20c55c2759987d039bb0c1a7e1d5c619adcbdf93d06262389df704f87e2771ae5", null ],
+      [ "VERIFIER_MODE_TEST", "d3/d58/a02302.html#a20c55c2759987d039bb0c1a7e1d5c619a69016a1d5c9224c133a8b36e6b91bc40", null ],
+      [ "VERIFIER_MODE_MAX", "d3/d58/a02302.html#a20c55c2759987d039bb0c1a7e1d5c619a0c41e61c8f128eb8a7e0b0855ef29a42", null ]
+    ] ],
+    [ "VF_FAILURE_CLASS", "d3/d58/a02302.html#a4f25df1e40201ae45f10f2b2c2d62c54", [
+      [ "VFFAILURE_FAIL_IN_FIELD", "d3/d58/a02302.html#a4f25df1e40201ae45f10f2b2c2d62c54ac865959fb76c797f8d5b56494ef8e244", null ],
+      [ "VFFAILURE_FAIL_LOGO", "d3/d58/a02302.html#a4f25df1e40201ae45f10f2b2c2d62c54a0a608b2e3691cd39ae1210076d34492c", null ],
+      [ "VFFAILURE_FAIL_UNDER_DEBUGGER", "d3/d58/a02302.html#a4f25df1e40201ae45f10f2b2c2d62c54a4e4fbb0265f36ba50838b0d63292fb70", null ]
+    ] ],
+    [ "VF_OBJECT_TYPE", "d3/d58/a02302.html#a90a867d822ecc01be2cdec2cdc1820c0", [
+      [ "VFOBJTYPE_DRIVER", "d3/d58/a02302.html#a90a867d822ecc01be2cdec2cdc1820c0a9175b72ac45d4a9f8bbf489f1008d7d6", null ],
+      [ "VFOBJTYPE_DEVICE", "d3/d58/a02302.html#a90a867d822ecc01be2cdec2cdc1820c0a3dc8071c6d84a45e027c72c15773860c", null ],
+      [ "VFOBJTYPE_SYSTEM_BIOS", "d3/d58/a02302.html#a90a867d822ecc01be2cdec2cdc1820c0adafba2513e4b32311c610c20492c3824", null ]
+    ] ],
+    [ "VerifierDeadlockFreePool", "d3/d58/a02302.html#a469d33a4376f13a2e4aa7eca4c4efcc7", null ],
+    [ "VerifierNtCreateFile", "d3/d58/a02302.html#acf69ec98a4c65de0079d1e5c6456c972", null ],
+    [ "VerifierNtReadFile", "d3/d58/a02302.html#a169bdd0a7d470fe32685f1067f8504a7", null ],
+    [ "VerifierNtWriteFile", "d3/d58/a02302.html#a49615c736e02d4be76d2c1ec7406d82f", null ],
+    [ "VfAllocateAdapterChannel", "d3/d58/a02302.html#a3371999fdb3ebf9751f4da089726493b", null ],
+    [ "VfAllocateCommonBuffer", "d3/d58/a02302.html#a115408386369495ea44753b5f5c4b5a5", null ],
+    [ "VfAllocateCrashDumpRegisters", "d3/d58/a02302.html#a0b47960be14a24e0ef8e3883f1d2c750", null ],
+    [ "VfDeadlockAcquireResource", "d3/d58/a02302.html#a7d64af7d3fbfaaa476cd592a004ed910", null ],
+    [ "VfDeadlockDeleteMemoryRange", "d3/d58/a02302.html#ab6066836ee231deccf92959f8cfdab74", null ],
+    [ "VfDeadlockDetectionCleanup", "d3/d58/a02302.html#af17eda883bb2a0a049f6ed3030144b2e", null ],
+    [ "VfDeadlockDetectionInitialize", "d3/d58/a02302.html#a72e833ba59649783050e276bcd38f65b", null ],
+    [ "VfDeadlockInitializeResource", "d3/d58/a02302.html#ac8c4623a0c683c0c2a24849ea0f45c5e", null ],
+    [ "VfDeadlockReleaseResource", "d3/d58/a02302.html#a01cd649b8905ffaa5229ae04789ebb62", null ],
+    [ "VfDisableHalVerifier", "d3/d58/a02302.html#ae7af22ec77c5118f40c71dd3c5c02abc", null ],
+    [ "VfFailDeviceNode", "d3/d58/a02302.html#a2a39992b9ebb00710235c0d160b30ab7", null ],
+    [ "VfFailDriver", "d3/d58/a02302.html#a482d6e8ca4ef14fb52d9c36658c93936", null ],
+    [ "VfFailSystemBIOS", "d3/d58/a02302.html#ad9bf7eb66b845e48961c929a3c490a1c", null ],
+    [ "VfFlushAdapterBuffers", "d3/d58/a02302.html#a6c4d0db6b19ef301646281c1718e811d", null ],
+    [ "VfFreeAdapterChannel", "d3/d58/a02302.html#a1dd2b45f02e768b8279bd575c839cda9", null ],
+    [ "VfFreeCommonBuffer", "d3/d58/a02302.html#ade1cff1e945e441153693f557a0b1ef5", null ],
+    [ "VfFreeMapRegisters", "d3/d58/a02302.html#a0a96e8a967584cb18cbe68dac3ed2b79", null ],
+    [ "VfGetDmaAdapter", "d3/d58/a02302.html#a6f17b66c07efa775a66efd5ce6bb6c7c", null ],
+    [ "VfGetDmaAlignment", "d3/d58/a02302.html#afabe7741c3da00165c92e80844ede051", null ],
+    [ "VfGetScatterGatherList", "d3/d58/a02302.html#a5275b5f1dfe25a568cac39de46a5f103", null ],
+    [ "VfHalDeleteDevice", "d3/d58/a02302.html#a3ce3df834d5c8f5c1c5c5af6c25718d8", null ],
+    [ "VfIsVerificationEnabled", "d3/d58/a02302.html#a0a45859a8af1b524b9c73f18e812dbac", null ],
+    [ "VfIsVerifierEnabled", "d3/d58/a02302.html#af6fecae8acfc7569017ebef6d5634700", null ],
+    [ "VfLegacyGetAdapter", "d3/d58/a02302.html#a3f51cddb45cc978c8ff03bad15be2ca2", null ],
+    [ "VfMapTransfer", "d3/d58/a02302.html#afa9ab2909da7a0930bcf92054a46b45d", null ],
+    [ "VfPutDmaAdapter", "d3/d58/a02302.html#a910470918368ee85fd089ad7d2714d9d", null ],
+    [ "VfPutScatterGatherList", "d3/d58/a02302.html#afe48306ea2ece5aa1bfdeb4ba2c1b048", null ],
+    [ "VfQueryPerformanceCounter", "d3/d58/a02302.html#a19ebe10d630c325641dd60d65837c80d", null ],
+    [ "VfReadDmaCounter", "d3/d58/a02302.html#a2ae201655139b5dea2d9838dcf739169", null ],
+    [ "VfVerifierRunningMode", "d3/d58/a02302.html#ab08c4a4efe04cd33d19e8f571ce50af2", null ]
+];
