@@ -1,0 +1,35 @@
+var a02090 =
+[
+    [ "RESULT", "d7/deb/a02090.html#ac0c5cc7751807fb0264baeab942bc8c3", null ],
+    [ "_RESULT", "d7/deb/a02090.html#a4f5f2a92b77700a9807e498683faa407", [
+      [ "NotHive", "d7/deb/a02090.html#a4f5f2a92b77700a9807e498683faa407a19432f1c81a39880cf3512d52fc5ceee", null ],
+      [ "Fail", "d7/deb/a02090.html#a4f5f2a92b77700a9807e498683faa407a2c88d6b09611bebcfd079df624ae3bfe", null ],
+      [ "NoMemory", "d7/deb/a02090.html#a4f5f2a92b77700a9807e498683faa407ae4dba2e8b0cc1e46c6885406591e338d", null ],
+      [ "HiveSuccess", "d7/deb/a02090.html#a4f5f2a92b77700a9807e498683faa407a024bda6a2741b70f0b3a9b3fca72707a", null ],
+      [ "RecoverHeader", "d7/deb/a02090.html#a4f5f2a92b77700a9807e498683faa407afa7aa7e51f0b52c7d231c776e5f21a8d", null ],
+      [ "RecoverData", "d7/deb/a02090.html#a4f5f2a92b77700a9807e498683faa407a4addeeb2fd8813425669a7860c02dff1", null ],
+      [ "SelfHeal", "d7/deb/a02090.html#a4f5f2a92b77700a9807e498683faa407a372803d9cca2229a62a6141fb65ab5a7", null ]
+    ] ],
+    [ "HvCloneHive", "d7/deb/a02090.html#af5c3da425c44c7accb0f5c99d0eff8cb", null ],
+    [ "HvLoadHive", "d7/deb/a02090.html#a59cac08b7888de5b1f37560704422bbb", null ],
+    [ "HvMapHive", "d7/deb/a02090.html#a78b86186bf9fcefa7b1a03fb9bb8ce96", null ],
+    [ "HvpDelistBinFreeCells", "d7/deb/a02090.html#a5daf7fcc5d53e7da2f7589324955d241", null ],
+    [ "HvpGetHiveHeader", "d7/deb/a02090.html#ac929a1acc3344ed566d7386a1b372007", null ],
+    [ "HvpGetLogHeader", "d7/deb/a02090.html#a65ef55fabd59b8b988099af246d96c6f", null ],
+    [ "HvpMapFileImageAndBuildMap", "d7/deb/a02090.html#a7157763dc55881611f8fe0d5c7fa9f64", null ],
+    [ "HvpReadFileImageAndBuildMap", "d7/deb/a02090.html#ace41ff423bc33ded1dfc361eeb527926", null ],
+    [ "HvpRecoverData", "d7/deb/a02090.html#a2f1571f536780006a8b8e23bfacfcc13", null ],
+    [ "HvpRecoverWholeHive", "d7/deb/a02090.html#a966fcf069684b00e635ec6f6f1d1a46a", null ],
+    [ "HvShrinkHive", "d7/deb/a02090.html#af2a975270d367ae374132adc08d201d3", null ],
+    [ "BinPoint", "d7/deb/a02090.html#a2c75496987657aceb82a321170f90e32", null ],
+    [ "CmpStashBuffer", "d7/deb/a02090.html#aafded97b462502cd170443e7064b12f3", null ],
+    [ "CmpStashBufferSize", "d7/deb/a02090.html#a1f6a7e3895682b74fb300af805b4f148", null ],
+    [ "FailPoint", "d7/deb/a02090.html#aafd4dc994bd1873d6c7440666138a986", null ],
+    [ "FileOffset", "d7/deb/a02090.html#a2f7283c7943d2165ddbfd9dd186a13ff", null ],
+    [ "Hive", "d7/deb/a02090.html#a74dd987163006b8bee62ce3c36409709", null ],
+    [ "HvCheckHiveDebug", "d7/deb/a02090.html#a51d026a93036d2b25a40871be5167c81", null ],
+    [ "HvRecoverDataDebug", "d7/deb/a02090.html#a67b7fb8fe1fab429b5202764c4e08e05", null ],
+    [ "MapPoint", "d7/deb/a02090.html#a88b7440463dbe8d903bd901098b44393", null ],
+    [ "Space", "d7/deb/a02090.html#a733dd24791f8b43b4482b6a6b27b18de", null ],
+    [ "Status", "d7/deb/a02090.html#a8d0307cc6eebba297dba1b97a0a7618e", null ]
+];

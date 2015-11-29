@@ -1,0 +1,28 @@
+var a00161 =
+[
+    [ "Affinity", "d6/d7d/a00161.html#acb3f0706a4c6bece983a892c5231d9f3", null ],
+    [ "BusNumber", "d6/d7d/a00161.html#a2915775fc5905d16c5d96f7d3a8c2102", null ],
+    [ "Channel", "d6/d7d/a00161.html#a460afacc9d4a6c9378418117940076cc", null ],
+    [ "Data", "d6/d7d/a00161.html#a64174ce2ca9b4da64c12039f0b8cbef1", null ],
+    [ "DataSize", "d6/d7d/a00161.html#a12d923f9aebb05ae7856624e1dde916e", null ],
+    [ "DevicePrivate", "d6/d7d/a00161.html#a9c04b516243c8af43dcf35dd15807a0d", null ],
+    [ "DeviceSpecificData", "d6/d7d/a00161.html#a0c7b2c7d6f9ac49800e2ae0ae18b41f5", null ],
+    [ "Dma", "d6/d7d/a00161.html#ada9c547245361c803e0ec29f7d71adc1", null ],
+    [ "Flags", "d6/d7d/a00161.html#ab1b911e76afbc6b4975330e65f2e5e45", null ],
+    [ "Generic", "d6/d7d/a00161.html#a602f156bd7be1abe5a001471a24500de", null ],
+    [ "Interrupt", "d6/d7d/a00161.html#a2d9a591d9d864b309c3b8b0f3130b099", null ],
+    [ "Length", "d6/d7d/a00161.html#ae6b3eacc6f5c7a2b91db7bbefa27b131", null ],
+    [ "Level", "d6/d7d/a00161.html#a9368ac06cdedd53f36a61d92b88d41fe", null ],
+    [ "Memory", "d6/d7d/a00161.html#a0415cdaafb3e90614e004c28881d9c67", null ],
+    [ "Port", "d6/d7d/a00161.html#adc528f43804f252c8620e84254d4f318", null ],
+    [ "Port", "d6/d7d/a00161.html#a0aab544ab7829f25b7902a7cdc58c9aa", null ],
+    [ "Reserved", "d6/d7d/a00161.html#ab1e2700277f09e5852c0aee7234052a3", null ],
+    [ "Reserved1", "d6/d7d/a00161.html#af5c669cdd9748aad75e946bc71538268", null ],
+    [ "Reserved2", "d6/d7d/a00161.html#ac8dd0e61b8bc6b20baff19506699a7a4", null ],
+    [ "ShareDisposition", "d6/d7d/a00161.html#a02eec1ea2abab1de944ebc5c28fa42f9", null ],
+    [ "Start", "d6/d7d/a00161.html#a991bcb1c1ae0e7bc48bc8e4ccc2d5d6d", null ],
+    [ "Start", "d6/d7d/a00161.html#a78e62dbbc8935bc09f3f720c0ac5ab8d", null ],
+    [ "Type", "d6/d7d/a00161.html#aa28bee4b504a2b1d4d8ec03d78aa2429", null ],
+    [ "u", "d6/d7d/a00161.html#abde1885455602db5f6198b82937b2a37", null ],
+    [ "Vector", "d6/d7d/a00161.html#a0e8d656f5e6d0782946933265a099c18", null ]
+];

@@ -1,0 +1,25 @@
+var a01896 =
+[
+    [ "Cr3", "d9/d63/a01896.html#a0f729e1f87d799668227c2be29cc30a7", null ],
+    [ "Cs", "d9/d63/a01896.html#a59519c9ee326383d78a5ed65c0074d89", null ],
+    [ "Ds", "d9/d63/a01896.html#aef8ad352d1c42a5574949d6e6b98cefa", null ],
+    [ "Eax", "d9/d63/a01896.html#a2a589492f5fdb70ba7bd3fe6a2c49857", null ],
+    [ "Ebp", "d9/d63/a01896.html#ab9ca74b754336c89c50cf375c8230e49", null ],
+    [ "Ebx", "d9/d63/a01896.html#a96a64ff5fe18f633aa48f0b6cf9d2e82", null ],
+    [ "Ecx", "d9/d63/a01896.html#a0e25d3d547e3f5a4484076ec51c7c6b3", null ],
+    [ "Edi", "d9/d63/a01896.html#aab7cd2cefe8eb232aad1f0c3693a8b22", null ],
+    [ "Edx", "d9/d63/a01896.html#a610a0f4bf69c72b887fe9c5976b4f33b", null ],
+    [ "EFlags", "d9/d63/a01896.html#ad47697a9f117480fde1012534ce3daa0", null ],
+    [ "Eip", "d9/d63/a01896.html#a32ef060166e62d01aa65772a3de19e51", null ],
+    [ "Es", "d9/d63/a01896.html#a97cf8e207cd107006d53cdf79bfd2614", null ],
+    [ "Esi", "d9/d63/a01896.html#a8e7055171fa4094ff66c321acb6ba891", null ],
+    [ "Esp", "d9/d63/a01896.html#afc6dba6458d3851042f63135e910ce5c", null ],
+    [ "Fs", "d9/d63/a01896.html#a86d4ad286fde21b346e522ca704b3a31", null ],
+    [ "Gs", "d9/d63/a01896.html#a1e941250e401ec8cbad69765a12436bb", null ],
+    [ "IoMapBase", "d9/d63/a01896.html#a9046f77346a52fb0067c7629907a10ce", null ],
+    [ "Ldt", "d9/d63/a01896.html#a051393ab9966c773a5cc5418758bcd01", null ],
+    [ "Previous", "d9/d63/a01896.html#aa21d8896d81149143f5bf7d322c94131", null ],
+    [ "Ring", "d9/d63/a01896.html#a321a79a8df81f837d3eaf869a888e66f", null ],
+    [ "Ss", "d9/d63/a01896.html#a2033d8bc461da2d031f23a32926007b5", null ],
+    [ "T", "d9/d63/a01896.html#a0b7bb491c0f8be8d34754e7d41c28df0", null ]
+];

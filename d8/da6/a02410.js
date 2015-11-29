@@ -1,0 +1,36 @@
+var a02410 =
+[
+    [ "LARGE_SYSTEM_STACK_PROTECT_TIME", "d8/da6/a02410.html#aea480cc9dcce96abdf882f5e44fd0bc0", null ],
+    [ "MAXIMUM_THREAD_STACKS", "d8/da6/a02410.html#a773c3c5791374a23c66cb6cf8973e772", null ],
+    [ "PERIODIC_INTERVAL", "d8/da6/a02410.html#af7567fdd98ed4d8ec95f79774eb07f37", null ],
+    [ "READY_WITHOUT_RUNNING", "d8/da6/a02410.html#a7521e493f39c933e2cb945b68ee1b37e", null ],
+    [ "SMALL_SYSTEM_STACK_PROTECT_TIME", "d8/da6/a02410.html#a08e1e88439005ae72fea23d9256a9cb1", null ],
+    [ "STACK_SCAN_PERIOD", "d8/da6/a02410.html#a4abe6dd9a9682814591b5ac9d518a952", null ],
+    [ "THREAD_BOOST_BIAS", "d8/da6/a02410.html#a6dc6f1f61222a03a9f59dac6c040dc4c", null ],
+    [ "THREAD_BOOST_PRIORITY", "d8/da6/a02410.html#a1ea25d87984b7bc29a04482a9b601075", null ],
+    [ "THREAD_READY_COUNT", "d8/da6/a02410.html#a8d7787f28968fa6be97150ef58c73be8", null ],
+    [ "THREAD_SCAN_COUNT", "d8/da6/a02410.html#a2732321805441770157231680c4c8f93", null ],
+    [ "THREAD_SCAN_PRIORITY", "d8/da6/a02410.html#aebda0b91e75019071d7711abe67f1beb", null ],
+    [ "BALANCE_OBJECT", "d8/da6/a02410.html#a81e4605bafc2d84ecf351abd4c348e16", null ],
+    [ "_BALANCE_OBJECT", "d8/da6/a02410.html#ab94855cc572ebe9b7fba50398d289dc0", [
+      [ "TimerExpiration", "db/df6/a02138.html#ab94855cc572ebe9b7fba50398d289dc0a597860699eff125783e854373b80f690", null ],
+      [ "ThreadSetManagerEvent", "db/df6/a02138.html#ab94855cc572ebe9b7fba50398d289dc0a342e298cf6111356392f548d17924c63", null ],
+      [ "ShutdownEvent", "db/df6/a02138.html#ab94855cc572ebe9b7fba50398d289dc0a858f4ddc459750d2352ce2522d967d9e", null ],
+      [ "MaximumBalanceObject", "db/df6/a02138.html#ab94855cc572ebe9b7fba50398d289dc0a5940df1c08f0d76828997b8c3675663c", null ],
+      [ "TimerExpiration", "d8/da6/a02410.html#ab94855cc572ebe9b7fba50398d289dc0a597860699eff125783e854373b80f690", null ],
+      [ "WorkingSetManagerEvent", "d8/da6/a02410.html#ab94855cc572ebe9b7fba50398d289dc0abf80bf25682f0fee87442eaab52db2cf", null ],
+      [ "MaximumObject", "d8/da6/a02410.html#ab94855cc572ebe9b7fba50398d289dc0aa151ce5753e43a9af58b3c14fbd389eb", null ]
+    ] ],
+    [ "KeBalanceSetManager", "d8/da6/a02410.html#a644602cb2005e7c53958ae8db737d5fb", null ],
+    [ "KeSwapProcessOrStack", "d8/da6/a02410.html#ad788238f950c97068eae8785d3467978", null ],
+    [ "KiAdjustIrpCredits", "d8/da6/a02410.html#abb079a9b00a9635ee637126e714ace7b", null ],
+    [ "KiInSwapKernelStacks", "d8/da6/a02410.html#aa7d7428d22537cb0e3cff5cb0b933a74", null ],
+    [ "KiInSwapProcesses", "d8/da6/a02410.html#a9b8ec09b578dcecbb4264d5593f4997c", null ],
+    [ "KiOutSwapKernelStacks", "d8/da6/a02410.html#a2112a2fd6ff6c7d8ab2565c767fb7309", null ],
+    [ "KiOutSwapProcesses", "d8/da6/a02410.html#ac236cf97308d09ce2fd0741390d0decd", null ],
+    [ "KiScanReadyQueues", "d8/da6/a02410.html#a6fb6a00d22697c998bf1a9c36b73d52a", null ],
+    [ "KiLastProcessor", "d8/da6/a02410.html#aa3062e7e87e71ca9108f453422754094", null ],
+    [ "KiReadyScanLast", "d8/da6/a02410.html#a0839dc77de849428f5080c8d7b67c264", null ],
+    [ "KiStackOutSwapRequest", "d8/da6/a02410.html#a9c44c0064bf915b5053c1966cb1ae925", null ],
+    [ "KiStackProtectTime", "d8/da6/a02410.html#a11bc23d8996c554297a69120bce58a24", null ]
+];

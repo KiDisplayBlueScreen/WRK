@@ -1,0 +1,25 @@
+var a01932 =
+[
+    [ "HalDereferenceBusHandler", "d8/d22/a01932.html#abbb3128b711bb3e2f0ce2969b5edc9cd", null ],
+    [ "HalEndMirroring", "d8/d22/a01932.html#af8c7a51fa2cd8600aff2e24567948781", null ],
+    [ "HalEndOfBoot", "d8/d22/a01932.html#a064e8d86058ae44f56e2caca3ccfe6cd", null ],
+    [ "HalExamineMBR", "d8/d22/a01932.html#ab33e816ba3485ab3c8ac281a73c3677c", null ],
+    [ "HalGetDmaAdapter", "d8/d22/a01932.html#a88546e8f3d09e436ce57d1c8e23fdf06", null ],
+    [ "HalGetInterruptTranslator", "d8/d22/a01932.html#a09ea7926018a3edc7fc2a5f661e5f737", null ],
+    [ "HalInitPnpDriver", "d8/d22/a01932.html#ae4e3d1492f56db3d096efbbba67ea632", null ],
+    [ "HalInitPowerManagement", "d8/d22/a01932.html#af33018360087bb5f6e6b908354bfd50e", null ],
+    [ "HalIoAssignDriveLetters", "d8/d22/a01932.html#a22a0838b35e273f7954b9b603a3df405", null ],
+    [ "HalIoReadPartitionTable", "d8/d22/a01932.html#a966fc94aefb2bd29cf10f69e39cb73ec", null ],
+    [ "HalIoSetPartitionInformation", "d8/d22/a01932.html#abcd4211bc610a052db209b560ee791b5", null ],
+    [ "HalIoWritePartitionTable", "d8/d22/a01932.html#a0f2928f6338d90c256e6229d0285d333", null ],
+    [ "HalMirrorPhysicalMemory", "d8/d22/a01932.html#af435e17922f4da6382d2d4e51edd41ce", null ],
+    [ "HalMirrorVerify", "d8/d22/a01932.html#ac7dd7a50b94957caecdffcd71938af16", null ],
+    [ "HalQueryBusSlots", "d8/d22/a01932.html#a1155ad6f385a564e22cdfc39f43b8ae9", null ],
+    [ "HalQuerySystemInformation", "d8/d22/a01932.html#afd21a6d1f88fdbf0190b3785d09ebcc0", null ],
+    [ "HalReferenceBusHandler", "d8/d22/a01932.html#a559731afc4a2ae72a891221f27c42e4e", null ],
+    [ "HalReferenceHandlerForBus", "d8/d22/a01932.html#a72f123fa69e42c66290210a211c06cd3", null ],
+    [ "HalSetSystemInformation", "d8/d22/a01932.html#ad15ccef0d75a9303b18039527ee8ea43", null ],
+    [ "HalStartMirroring", "d8/d22/a01932.html#a253ae2a47bd1a1aa4c5e3c4a96640dd7", null ],
+    [ "Spare1", "d8/d22/a01932.html#a09fdcdfb76c5abdf01e44b0530966c0f", null ],
+    [ "Version", "d8/d22/a01932.html#ace63ec0ef7ea86179ed2f2a216d35bab", null ]
+];
