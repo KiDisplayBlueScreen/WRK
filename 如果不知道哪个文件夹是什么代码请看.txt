@@ -17,19 +17,29 @@ A future version may also support booting WRK kernels on Windows XP x86 systems,
 but the current kernels will fail to boot due to differences in some shared 
 structures.
 
+Windows研究内核 V1.2包含了在x86和AMD64下运行的Windows(NTOS)(Windows Server 2003 Service Pack 1或Windows XP x64 Professional)或内核以及内核组建环境.
+未来的版本可能也支持在Windows XP x86上启动WRK内核,但当前内核可能会启动失败因为某些公共数据结构发生改变.
+
 The NTOS kernel implements the basic OS functions
 for processes, threads, virtual memory and cache managers, I/O management,
 the registry, executive functions such as the kernel heap and synchronization,
 the object manager, the local procedure call mechanism, the security reference
 monitor, low-level CPU management (thread scheduling, Asynchronous and Deferred
 Procedure calls, interrupt/trap handling, exceptions), etc.
+NTOS 内核实现了基本的OS函数:进程,线程,虚拟内存和缓存管理器,I/O管理器,注册表,诸如内核堆和同步操作的执行体函数.
+对象管理器,本地过程调用(LPC)机制,安全引用监视器,底层CPU管理(线程调度,异步和延迟过程调用,中断/陷阱处理,异常处理)等等.
 
 The NT Hardware Abstraction Layer, file systems, network stacks, and device
 drivers are implemented separately from NTOS and loaded into kernel mode
 as dynamic libraries.  Sources for these dynamic components are not included
 in the WRK, but some are available in various development kits published
 by Microsoft, such as the Installable File System (IFS) Kit and the
-Windows Driver Development Kit (DDK).
+Windows Driver Development Kit (WDK).
+NT 硬件抽象层,文件系统,网络栈和设备驱动在NTOS之外实现并以动态链接库的形式载入到内核模式中.
+这些动态链接的组件没有包含在WRK内,但其中某些在Microsoft公布的不同的开发工具包中是可用的,
+例如可安装文件系统包(IFS)和Windows驱动开发包(WDK)
+
+
 
 WRK v1.2 includes most of the NTOS kernel sources from the latest released
 version of Windows, which supports the AMD64 architecture on the Desktop.
@@ -130,7 +140,7 @@ ALTERNATIVELY
 NOTE ABOUT <ARCH>
 
 Batch files Build.bat, Rebuild.bat, Clean.bat, WRKEnv.bat and WRKDebug.bat 
-take one parameter � target architecture, which is x86 or amd64.
+take one parameter – target architecture, which is x86 or amd64.
  
 For the first use of either of these batch files, default target architecture 
 is x86.
@@ -140,7 +150,7 @@ cannot be changed for current console window, and <arch> parameter of the
 batch files is ignored.
 
 The title of the window where the WRK environment has been set to some target 
-architecture changes to �WRK x86� or �WRK amd64�.
+architecture changes to “WRK x86” or “WRK amd64”.
 
 To work with different target architecture, open another console window. 
 -----------------------------------------------------------------------------
