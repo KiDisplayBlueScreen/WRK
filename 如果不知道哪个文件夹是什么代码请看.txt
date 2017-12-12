@@ -45,34 +45,44 @@ WRK v1.2 includes most of the NTOS kernel sources from the latest released
 version of Windows, which supports the AMD64 architecture on the Desktop.
 The kernel sources excluded from the kit are primarily in the areas of
 plug-and-play, power management, the device verifier, kernel debugger
-interface, and virtual dos machine.  The primary modifications to WRK
+interface, and virtual dos machine.The primary modifications to WRK
 from the released kernel are related to cleanup and removal of server
 support, such as code related to the Intel IA64.
 
-***
+WRK v1.2包含了最新公布的Windows版本中的大部分NTOS内核资源.它们支持桌面的AMD64架构.
+不包含在包中的内核资源主要来自于即插即用,电源管理,设备验证器,内核调试接口,以及虚拟DOS机.
+
+
+
+
 
 Organization of the WRK sources
 
 The file License.txt contains the license covering use of the WRK.
+License.txt包含了使用WRK的许可.
 
 The public\ directory contains a number of include files shared among system
 components.  base\ntos\ contains the NTOS sources.
+public\  目录包含了系统组件的共用文件 
+ base\ntos\ 包含了NTOS资源.
+
 
 The primary NTOS source components included in the WRK are organized as follows:
-
-    cache\  - cache manager
-    config\ - registry implementation
-    dbgk\   - user-mode debugger support
-    ex\     - executive functions (kernel heap, synchronization, time)
-    fsrtl\  - file system run-time support
-    io\     - I/O manager
-    ke\     - scheduler, CPU management, low-level synchronization
-    lpc\    - local procedure call implementation
-    mm\     - virtual memory manager
-    ob\     - kernel object manager
-    ps\     - process/thread support
-    se\     - security functions
-    wmi\    - Windows Management Instrumentation
+        WRK中包含的主要NTOS组件如下:
+        
+     cache\  - cache manager 缓存管理器
+    config\ - registry implementation 注册表实现
+    dbgk\   - user-mode debugger support 用户模式调试支持
+    ex\     - executive functions (kernel heap, synchronization, time)执行体函数(内核堆,异步操作,时间支持)
+    fsrtl\  - file system run-time support (文件系统运行时支持)
+    io\     - I/O manager (I/O 管理器)
+    ke\     - scheduler, CPU management, low-level synchronization 调度器,CPU管理,底层异步执行
+    lpc\    - local procedure call implementation 本地过程调用实现
+    mm\     - virtual memory manager 虚拟内存管理
+    ob\     - kernel object manager 内核对象管理器
+    ps\     - process/thread support 进程线程支持
+    se\     - security functions 安全函数
+    wmi\    - Windows Management Instrumentation 
 
     inc\    - NTOS-only include files
     rtl\    - kernel run-time support
